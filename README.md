@@ -1,6 +1,4 @@
-# breast_cancer_predictor
-Breast cancer predictor model
-# Breast Cancer Prediction System (Numeric Model)
+<img width="1277" height="705" alt="image" src="https://github.com/user-attachments/assets/9fc88701-081f-4559-a3c8-902a3a3580f1" /># Breast Cancer Prediction System (Numeric Model)
 
 ## Overview
 
@@ -19,6 +17,10 @@ This project demonstrates full end-to-end ML workflow, including:
 - Interactive UI using Streamlit
 
 ---
+
+##UI
+<img width="1411" height="685" alt="image" src="https://github.com/user-attachments/assets/578600ab-fc23-42bf-af7b-b3eead284efa" />
+<img width="1277" height="705" alt="image" src="https://github.com/user-attachments/assets/ddb297cc-2c41-4ad9-ba28-269af67b2b2e" />
 
 ## Project Architecture
 
