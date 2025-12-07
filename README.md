@@ -22,23 +22,6 @@ This project demonstrates full end-to-end ML workflow, including:
 <img width="1470" height="712" alt="image" src="https://github.com/user-attachments/assets/d2d9fb11-4c52-4852-be22-19664f895c2c" />
 
 
-## Project Architecture
-
-breast-cancer-predictor/
-├── models/
-│ └── cancer_model.pkl
-├── src/
-│ ├── load_dataset.py
-│ ├── preprocess.py
-│ ├── train_model.py
-│ ├── evaluate_model.py
-│ └── predict.py
-├── ui/
-│ └── app.py
-├── run_pipeline.py
-└── requirements.txt
-
-
 ---
 
 ## Dataset Details
