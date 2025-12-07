@@ -1,4 +1,4 @@
-<img width="1277" height="705" alt="image" src="https://github.com/user-attachments/assets/9fc88701-081f-4559-a3c8-902a3a3580f1" /># Breast Cancer Prediction System (Numeric Model)
+# Breast Cancer Prediction System (Numeric Model)
 
 ## Overview
 
