@@ -20,7 +20,11 @@ def load_data():
     print(data.DESCR[:1000])
 
     x = data.data
+    print("X: --") #features
+    print(x)
     y = data.target
+    print("Y ---") #bad or good
+    print(y)
     feature_names = data.feature_names
     target_names = data.target_names
 
