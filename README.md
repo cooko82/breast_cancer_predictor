@@ -18,7 +18,6 @@ This project demonstrates full end-to-end ML workflow, including:
 
 ---
 
-##UI
 <img width="1470" height="712" alt="image" src="https://github.com/user-attachments/assets/12f72efd-f651-40bc-9ff9-3a09aced7d65" />
 <img width="1470" height="712" alt="image" src="https://github.com/user-attachments/assets/d2d9fb11-4c52-4852-be22-19664f895c2c" />
 
